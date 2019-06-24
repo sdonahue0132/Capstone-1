@@ -45,6 +45,6 @@ Requirements.txt document is available at the root folder.
 
 Thank you for taking time to review my project.  Special thanks go to my professional mentors, Evan and Kenneth.
 
-Update 6/23/2019:  EDA notebooks now account for reinvested dividends and stock splits, but still do not account for potential tax burden.
+Update 6/23/2019:  EDA notebooks now account for reinvested dividends and stock splits, but still do not account for potential tax burden.  PDF reports still reflect the previous version and a follow up announcement will be made when they've been updated.
 
 ~Steve
