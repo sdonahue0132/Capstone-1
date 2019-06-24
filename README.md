@@ -43,9 +43,8 @@ To view the work in the order it is generated, please look to the following guid
 	
 Requirements.txt document is available at the root folder.
 
-
-
-
 Thank you for taking time to review my project.  Special thanks go to my professional mentors, Evan and Kenneth.
+
+Update 6/23/2019:  EDA notebooks now account for reinvested dividends and stock splits, but still do not account for potential tax burden.
 
 ~Steve
